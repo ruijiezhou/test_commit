@@ -14,3 +14,8 @@ This is the third modified commit.
 
 
 Modifying the second commit.
+
+Another commit
+
+Edit the third commit
+
